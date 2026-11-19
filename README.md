@@ -28,3 +28,6 @@ C Programming
 
 ## Platform
 LeetCode and GitHub
+## Git Workflow
+- Created a feature branch.
+- Practiced commits and merging.
